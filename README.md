@@ -1,4 +1,4 @@
-# AiIResume Builder
+# AI Resume Builder
 
 Ai Resume Builder is a modern, beginner-friendly web application that uses AI to help you create professional resumes in minutes. Just enter your details, and our AI (powered by DeepSeek via Ollama) will generate a tailored, job-ready resume for you—no writing or design skills needed!
 
