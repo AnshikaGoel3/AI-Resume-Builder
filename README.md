@@ -45,7 +45,7 @@ text
 - Start Ollama:  
   ```
   ollama serve
-  ollama run deepseek
+  ollama run deepseek-r1
   ```
 - Make sure your Spring Boot app is set to call Ollama's API (usually at `http://localhost:11434`).
 3. Start the backend server:
